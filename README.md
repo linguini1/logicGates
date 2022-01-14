@@ -1,4 +1,5 @@
 # Logic Gates Generator
+### Matteo Golin
 [![License: MIT](https://img.shields.io/badge/License-MIT-indigo.svg)](https://opensource.org/licenses/MIT)
 
 The Logic Gates generator is a command line program that makes use of Python to generate logic gate schematics of 
