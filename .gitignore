@@ -1,3 +1,5 @@
 test.py
 output/kmaps/**
 output/schematics/**
+__pycache__
+venv/
